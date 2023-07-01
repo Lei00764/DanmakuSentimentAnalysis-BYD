@@ -1,6 +1,5 @@
 # B站弹幕可视化分析
 
-
 同济大学 2023 年《大数据与人工智能》期末大作业
 
 本项目主要完成了以下工作：
@@ -100,7 +99,6 @@ python ./spider.py
 ![f4a7ebd9-8db9-49d4-8d66-26814c1964e8](https://lei-1306809548.cos.ap-shanghai.myqcloud.com/Obsidian/f4a7ebd9-8db9-49d4-8d66-26814c1964e8.png)
 
 
-
 弹幕态度分布图
 
 ![aa118f01-c33c-4cc5-825d-d761ad6eee28](https://lei-1306809548.cos.ap-shanghai.myqcloud.com/Obsidian/aa118f01-c33c-4cc5-825d-d761ad6eee28.png)
@@ -118,16 +116,6 @@ python ./spider.py
 ![bf885d4b-69d8-4941-8483-22f44199f70a](https://lei-1306809548.cos.ap-shanghai.myqcloud.com/Obsidian/bf885d4b-69d8-4941-8483-22f44199f70a.png)
 
 ## 鸣谢
-
-[1]孙洋,冷冠男.基于BERT模型的网络舆情情感分析——以上海疫情为例[J].应用数学进展,2022,11(8):5053-5061
-
-[2]Wang, Junjie et al. “Fengshenbang 1.0: Being the Foundation of Chinese Cognitive Intelligence.” *ArXiv* abs/2209.02970 (2022): n. pag.
-
-[3]郑飏飏,徐健,肖卓.情感分析及可视化方法在网络视频弹幕数据分析中的应用[J].现代图书情报技术,2015,No.264(11):82-90.
-
-[4]高旭.基于弹幕的视频高潮探测分析[J].电脑知识与技术,2020,16(06):209-210.DOI:10.14004/j.cnki.ckt.2020.0707.
-
-[5]姚宗豪. 面向B站弹幕情感分析系统的设计和实现[D].山东大学,2021.DOI:10.27272/d.cnki.gshdu.2021.006956.
 
 https://github.com/SocialSisterYi/bilibili-API-collect
 
